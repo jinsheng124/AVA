@@ -1,11 +1,11 @@
 **AVA2.2数据集使用教程**
 
-##1,运行ava_download下的geturl.py,生成下载链接test_url.txt和trainval_url.txt
+## 1,运行ava_download下的geturl.py,生成下载链接test_url.txt和trainval_url.txt
     
-##2,使用迅雷批量下载，将所有视频文件放入ava_video下
+## 2,使用迅雷批量下载，将所有视频文件放入ava_video下
     
-##3,运行video2img.py。
-###会在同级目录创建ava_video_15min文件夹，并将ava_video下所有视频截取15min-30min片段放入其中
+## 3,运行video2img.py。
+### 会在同级目录创建ava_video_15min文件夹，并将ava_video下所有视频截取15min-30min片段放入其中
 ---|将ava_video_15min文件夹下的15min视频划分为帧，保存在datasets/AVA/frames文件夹下
     
 4,下载train.csv和val.csv,放在datasets/AVA/frame_lists文件夹下。
