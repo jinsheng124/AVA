@@ -6,9 +6,9 @@
     
 3, 运行video2img.py。
 
-    会在同级目录创建ava_video_15min文件夹，并将ava_video下所有视频截取15min-30min片段放入其中
+    1, 会在同级目录创建ava_video_15min文件夹，并将ava_video下所有视频截取15min-30min片段放入其中
 
-    将ava_video_15min文件夹下的15min视频划分为帧，保存在datasets/AVA/frames文件夹下
+    2, 将ava_video_15min文件夹下的15min视频划分为帧，保存在datasets/AVA/frames文件夹下
     
 4, 下载train.csv和val.csv,放在datasets/AVA/frame_lists文件夹下。
     [[train.csv下载地址]](https://dl.fbaipublicfiles.com/video-long-term-feature-banks/data/ava/frame_lists/train.csv)
