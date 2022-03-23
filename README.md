@@ -9,7 +9,7 @@
         ---|将ava_video_15min文件夹下的15min视频划分为帧，保存在datasets/AVA/frames文件夹下
     
     4,下载train.csv和val.csv,放在datasets/AVA/frame_lists文件夹下。
-        *train.csv下载地址:https://dl.fbaipublicfiles.com/video-long-term-feature-banks/data/ava/frame_lists/train.csv*
+        train.csv下载地址:https://dl.fbaipublicfiles.com/video-long-term-feature-banks/data/ava/frame_lists/train.csv
         val.csv下载地址：https://dl.fbaipublicfiles.com/video-long-term-feature-banks/data/ava/frame_lists/val.csv
     进入上述网址后右键另存即可。
     
