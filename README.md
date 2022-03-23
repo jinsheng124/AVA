@@ -1,8 +1,8 @@
-**AVA2.2数据集使用教程**
+#**AVA2.2数据集使用教程**
 
-    ===1,运行ava_download下的geturl.py,生成下载链接test_url.txt和trainval_url.txt
+##1,运行ava_download下的geturl.py,生成下载链接test_url.txt和trainval_url.txt
     
-    ===2,使用迅雷批量下载，将所有视频文件放入ava_video下
+    2,使用迅雷批量下载，将所有视频文件放入ava_video下
     
     3,运行video2img.py。
         ---|会在同级目录创建ava_video_15min文件夹，并将ava_video下所有视频截取15min-30min片段放入其中
@@ -18,7 +18,7 @@
     
     6，运行build_dataset.py,即可生成Dataloader用于训练
     
-**需求工具**
+#**需求工具**
 
     ffmpeg,用于剪辑视频。
     官方地址：https://www.ffmpeg.org/
