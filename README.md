@@ -21,7 +21,6 @@
 **需求工具**
 
     ffmpeg,用于剪辑视频。
-    官方地址：
-    **https://www.ffmpeg.org/**
+    官方地址：https://www.ffmpeg.org/
     下载win64压缩包，解压并配置环境变量
 
