@@ -1,6 +1,6 @@
 **AVA2.2数据集使用教程**
 
-    1,运行ava_download下的geturl.py,生成下载链接test_url.txt和train_url.txt
+    1,运行ava_download下的geturl.py,生成下载链接test_url.txt和trainval_url.txt
     
     2,使用迅雷批量下载，将所有视频文件放入ava_video下
     
