@@ -19,7 +19,8 @@
     6，运行build_dataset.py,即可生成Dataloader用于训练
     
 **需求工具**
-    ffmpeg，用于剪辑视频。
-    官方地址：https://www.ffmpeg.org/
+
+    ffmpeg,用于剪辑视频。
+    官方地址：**https://www.ffmpeg.org/**
     下载win64压缩包，解压并配置环境变量
 
