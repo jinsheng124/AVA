@@ -2,7 +2,7 @@
 
 1, 运行ava_download下的geturl.py,会在同级目录下生成下载链接test_url.txt和trainval_url.txt
     
-2, 复制链接，使用迅雷批量下载，将所有视频文件放入ava_video下
+2, 复制链接，使用迅雷批量下载，在主目录创建ava_video文件夹，将所有视频文件放入ava_video下
     
 3, 运行video2img.py。
 
